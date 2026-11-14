@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好世界</title>
+      <link href="/2026/11/13/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/"/>
+      <url>/2026/11/13/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</url>
+      
+        <content type="html"><![CDATA[<p>博客的第一篇文章，按惯例从「你好，世界」开始。</p><h2 id="为什么建这个站"><a href="#为什么建这个站" class="headerlink" title="为什么建这个站"></a>为什么建这个站</h2><p>一直想有个自己的地方：不是朋友圈那种给别人看的动态，而是一块完全属于自己的地——想写什么写什么，想放什么放什么。于是有了这个站。</p><h2 id="这个站是怎么来的"><a href="#这个站是怎么来的" class="headerlink" title="这个站是怎么来的"></a>这个站是怎么来的</h2><ul><li>用 <a href="https://hexo.io/">Hexo</a> 生成静态页面，主题是 <a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a></li><li>免费托管在 GitHub Pages 上，全世界都能访问</li><li>头图是一段 AI 生成的视频，评论用的是 GitHub Discussions</li></ul><p>从决定搭站到上线，前后用了一个晚上。互联网时代建自己的主页，从来没有这么容易过。</p><h2 id="接下来会写什么"><a href="#接下来会写什么" class="headerlink" title="接下来会写什么"></a>接下来会写什么</h2><p>不给自己立太死的 flag，大概会写：</p><ol><li>画画和看过的插画</li><li>折腾电脑、折腾代码的记录</li><li>一些想留下的日常</li></ol><blockquote><p>头图与站点图标均为 AI 生成插画。</p></blockquote><p>如果你正好路过，欢迎在文末留个言——用 GitHub 登录就能评论。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 起步 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

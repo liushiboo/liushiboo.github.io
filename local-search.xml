@@ -4,24 +4,11 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2026/11/13/hello-world/"/>
-    <url>/2026/11/13/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>你好世界</title>
     <link href="/2026/11/13/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/"/>
     <url>/2026/11/13/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</url>
     
-    <content type="html"><![CDATA[<p>这是博客的第一篇文章，由 Hexo 生成，托管在 GitHub Pages 上。</p><h2 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h2><p>记录学习、整理思路。</p><h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><ul><li>换一套自己喜欢的主题配色</li><li>坚持每周更新一篇</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>博客的第一篇文章，按惯例从「你好，世界」开始。</p><h2 id="为什么建这个站"><a href="#为什么建这个站" class="headerlink" title="为什么建这个站"></a>为什么建这个站</h2><p>一直想有个自己的地方：不是朋友圈那种给别人看的动态，而是一块完全属于自己的地——想写什么写什么，想放什么放什么。于是有了这个站。</p><h2 id="这个站是怎么来的"><a href="#这个站是怎么来的" class="headerlink" title="这个站是怎么来的"></a>这个站是怎么来的</h2><ul><li>用 <a href="https://hexo.io/">Hexo</a> 生成静态页面，主题是 <a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a></li><li>免费托管在 GitHub Pages 上，全世界都能访问</li><li>头图是一段 AI 生成的视频，评论用的是 GitHub Discussions</li></ul><p>从决定搭站到上线，前后用了一个晚上。互联网时代建自己的主页，从来没有这么容易过。</p><h2 id="接下来会写什么"><a href="#接下来会写什么" class="headerlink" title="接下来会写什么"></a>接下来会写什么</h2><p>不给自己立太死的 flag，大概会写：</p><ol><li>画画和看过的插画</li><li>折腾电脑、折腾代码的记录</li><li>一些想留下的日常</li></ol><blockquote><p>头图与站点图标均为 AI 生成插画。</p></blockquote><p>如果你正好路过，欢迎在文末留个言——用 GitHub 登录就能评论。</p>]]></content>
     
     
     <categories>

@@ -8,23 +8,26 @@
 <head>
   <meta charset="UTF-8">
 
-  <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
-  <link rel="icon" href="/img/fluid.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/avatar.png">
+  <link rel="icon" href="/img/favicon.png">
   
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="theme-color" content="#2f4154">
-  <meta name="author" content="John Doe">
-  <meta name="keywords" content="">
+  <meta name="author" content="liushiboo">
+  <meta name="keywords" content="博客,插画,动漫,代码,随笔">
   
-    <meta property="og:type" content="website">
-<meta property="og:title" content="我的博客">
+    <meta name="description" content="白龙小站 —— 记录插画、代码与日常的个人博客">
+<meta property="og:type" content="website">
+<meta property="og:title" content="白龙小站">
 <meta property="og:url" content="https://liushiboo.github.io/index.html">
-<meta property="og:site_name" content="我的博客">
+<meta property="og:site_name" content="白龙小站">
+<meta property="og:description" content="白龙小站 —— 记录插画、代码与日常的个人博客">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:author" content="John Doe">
+<meta property="article:author" content="liushiboo">
+<meta property="article:tag" content="博客,插画,动漫,代码,随笔">
 <meta name="twitter:card" content="summary_large_image">
   
   
@@ -33,7 +36,7 @@
   
     <style>#banner{position:relative;overflow:hidden}.banner-media{position:absolute;top:0;left:0;width:100%;height:100%}.banner-media.banner-img{animation:bannerKenburns 22s ease-in-out infinite alternate;will-change:transform}@keyframes bannerKenburns{from{transform:scale(1)}to{transform:scale(1.15) translate(-1.2%,-0.8%)}}video.banner-media{object-fit:cover}#banner .full-bg-img{position:relative;z-index:1}</style>
   
-  <title>我的博客</title>
+  <title>白龙小站</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -91,7 +94,7 @@
   <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <strong>Fluid</strong>
+      <strong>白龙小站</strong>
     </a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
@@ -298,7 +301,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="An elegant Material-Design theme for Hexo"></span>
+            <span id="subtitle" data-typed-text="雪落无声，剑出有影。,记录插画、代码与日常。,欢迎来到白龙小站。"></span>
           
         </div>
 
@@ -331,40 +334,7 @@
               <div class="col-12 col-md-10 m-auto">
                 
 
-<h1 style="display: none">我的博客</h1>
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h2 class="index-header">
-        
-        <a href="/2026/11/13/hello-world/" target="_self">
-          Hello World
-        </a>
-      </h2>
-
-      
-      <a class="index-excerpt index-excerpt__noimg" href="/2026/11/13/hello-world/" target="_self">
-        <div>
-          Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick
-        </div>
-      </a>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2026-11-13 22:13" pubdate>
-              2026-11-13
-            </time>
-          </div>
-        
-        
-        
-      </div>
-    </article>
-  </div>
+<h1 style="display: none">白龙小站</h1>
 
   <div class="row mx-auto index-card">
     
@@ -380,7 +350,7 @@
       
       <a class="index-excerpt index-excerpt__noimg" href="/2026/11/13/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/" target="_self">
         <div>
-          这是博客的第一篇文章，由 Hexo 生成，托管在 GitHub Pages 上。 为什么写博客记录学习、整理思路。 接下来 换一套自己喜欢的主题配色 坚持每周更新一篇
+          博客的第一篇文章，按惯例从「你好，世界」开始。 为什么建这个站一直想有个自己的地方：不是朋友圈那种给别人看的动态，而是一块完全属于自己的地——想写什么写什么，想放什么放什么。于是有了这个站。 这个站是怎么来的 用 Hexo 生成静态页面，主题是 Fluid 免费托管在 GitHub Pages 上，全世界都能访问 头图是一段 AI 生成的视频，评论用的是 GitHub Discussions  从
         </div>
       </a>
 
@@ -540,7 +510,9 @@
       }
       var text = subtitle.getAttribute('data-typed-text');
       
-        typing(text);
+        var texts = ["雪落无声，剑出有影。","记录插画、代码与日常。","欢迎来到白龙小站。"];
+        var idx = Math.floor(Math.random() * texts.length);
+        typing(texts[idx]);
       
     })(window, document);
   </script>
